@@ -1,2 +1,2 @@
-# omtl
-One More Template Library
+# One More Template Library (omtl)
+
